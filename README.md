@@ -26,7 +26,7 @@
 
 #
 
-![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=felixbyrjall&show_icons=true&theme=tokyonight&count_private=true&include_all_commits)
+<!-- ![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=felixbyrjall&show_icons=true&theme=tokyonight&count_private=true&include_all_commits) -->
 
 
 
