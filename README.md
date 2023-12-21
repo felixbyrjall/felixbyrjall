@@ -8,6 +8,10 @@ Aspiring programmer showcasing coding projects and skills
 <img alt="Java" src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"> <img alt="C sharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixbyrjall&label=Profile%20views&color=0e75b6&style=flat" alt="felixbyrjall" /> </p>
+
+<p>Grades</p>
+
+[Software Design](https://github.com/felixbyrjall/software-design-exam): B
 <!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
