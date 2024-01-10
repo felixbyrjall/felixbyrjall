@@ -12,6 +12,7 @@ Aspiring programmer showcasing coding projects and skills
 <p>Grades</p>
 
 [Software Design](https://github.com/felixbyrjall/software-design-exam): B
+[Backend Programming](https://github.com/felixbyrjall/backend-exam): A
 <!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
