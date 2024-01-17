@@ -9,10 +9,12 @@ Aspiring programmer showcasing coding projects and skills
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixbyrjall&label=Profile%20views&color=0e75b6&style=flat" alt="felixbyrjall" /> </p>
 
-<p>Grades</p>
+#### Current grades
 
-[Software Design](https://github.com/felixbyrjall/software-design-exam): B <br>
-[Backend Programming](https://github.com/felixbyrjall/backend-exam): A
+##### Third Semester
+- [PG3302 Software Design](https://github.com/felixbyrjall/software-design-exam) (B)
+- [PGR209 Backend Programming](https://github.com/felixbyrjall/backend-exam): (A) 
+- [PG6301 Webdevelopment and API design](): (C)
 <!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
