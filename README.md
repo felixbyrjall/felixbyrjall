@@ -14,7 +14,12 @@ Aspiring programmer showcasing coding projects and skills
 ##### Third Semester
 - [PG3302 Software Design](https://github.com/felixbyrjall/software-design-exam) (B)
 - [PGR209 Backend Programming](https://github.com/felixbyrjall/backend-exam): (A) 
-- [PG6301 Webdevelopment and API design](): (C)
+- [PG6301 Webdevelopment and API design](https://github.com/kristiania-pg6301-2023/pg6301eksamen-felixbyrjall): (C)
+
+##### Fourth Semester
+- [PG3401 C Programming in Linux](https://github.com/felixbyrjall/pg3401_c) (B)
+- [PGR107 Python Programming](https://github.com/felixbyrjall/Python-Exam) (A)
+- [PRO202 Agile Project](https://github.com/teamcygnus24/lightbeam) (B)
 <!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
