@@ -9,6 +9,7 @@ Aspiring programmer showcasing coding projects and skills
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixbyrjall&label=Profile%20views&color=0e75b6&style=flat" alt="felixbyrjall" /> </p>
 
+<!--
 #### Current grades
 
 ##### Third Semester
@@ -20,7 +21,7 @@ Aspiring programmer showcasing coding projects and skills
 - [PG3401 C Programming in Linux](https://github.com/felixbyrjall/pg3401_c) (B)
 - [PGR107 Python Programming](https://github.com/felixbyrjall/Python-Exam) (A)
 - [PRO202 Agile Project](https://github.com/teamcygnus24/lightbeam) (B)
-<!--
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
 <img align="left" alt="React.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
