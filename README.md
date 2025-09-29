@@ -3,8 +3,11 @@
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
 ---
+<img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=Podman&logoColor=white"> <img alt="Red Hat Open Shift" src="https://img.shields.io/badge/Red%20Hat%20Open%20Shift-EE0000.svg?style=for-the-badge&logo=Red-Hat-Open-Shift&logoColor=white">
 
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Java" src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"> <img alt="C sharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+<!--
+ <img alt="Java" src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"> <img alt="C sharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixbyrjall&label=Profile%20views&color=0e75b6&style=flat" alt="felixbyrjall" /> </p>
 
